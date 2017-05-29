@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://www.facebook.com/Tragopvespapiaggiochinhhang' target='_blank'><img src='http://www.topcom.com.vn/data/upload/Piaggio_May-Promotion_Banner-999x537.jpg width='500px'/><br/>Trả góp xe vespa chính hãng </a>.Liên hệ Mr Báu số điện thoại 0934672799. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://www.facebook.com/Tragopvespapiaggiochinhhang' target='_blank'><img src='http://www.topcom.com.vn/data/upload/Piaggio_May-Promotion_Banner-999x537.jpg' width='500px'/><br/>Trả góp xe vespa chính hãng </a>.Liên hệ Mr Báu số điện thoại 0934672799. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
